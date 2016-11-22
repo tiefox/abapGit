@@ -39,6 +39,11 @@
 		"title": "ebid-abap-client",
 		"description": "ABAP Client for the http://www.unternehmensverzeichnis.org REST API"
 	},	
+  "https://github.com/Sumu-Ning/AES.git": 
+	{ 
+		"title": "AES",
+		"description": "ABAP Utilities for AES/Rijndael encryption, decryption"
+	},	
   "https://github.com/larshp/Datamatrix.git": 
 	{ 
 		"title": "Datamatrix",
