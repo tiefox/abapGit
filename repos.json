@@ -44,6 +44,11 @@
 		"title": "AES",
 		"description": "ABAP Utilities for AES/Rijndael encryption, decryption"
 	},	
+  "https://github.com/fidley/falv.git": 
+	{ 
+		"title": "falv",
+		"description": "FALV - Fast ALV Grid"
+	},	
   "https://github.com/larshp/Datamatrix.git": 
 	{ 
 		"title": "Datamatrix",
